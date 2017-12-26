@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "perl",
+            "request": "launch",
+            "exec": "C:/Strawberry/perl/bin/perl.exe",
+            "execArgs": [],
+            "name": "Perl Debug",
+            "root": "${workspaceRoot}",
+            "program": "${workspaceRoot}/one.pl",
+            "inc": [],
+            "args": [],
+            "stopOnEntry": true,
+            "externalConsole": true
+        }
+    ]
+}
